@@ -2,6 +2,8 @@
 
 A modern **per-user to-do list application** built with **Next.js 13 (App Router)** and **SQLite**. This app implements authentication, client-side interactivity, and local theme persistence while providing a responsive and user-friendly interface.
 
+![App Screenshot](public/To-Do.jpg)
+![App Screenshot](public/To-Do-Dashboard.jpg)
 ---
 
 ## Key Features
