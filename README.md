@@ -83,7 +83,7 @@ src/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/todo-next-sqlite.git
+git clone https://github.com/ToastedAvenger/todo-next-sqlite.git
 cd todo-next-sqlite
 ```
 
